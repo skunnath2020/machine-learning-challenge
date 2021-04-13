@@ -34,7 +34,7 @@ SVC Model :
 Training Data Score: 0.8472248712569139
 Testing Data Score: 0.852974828375286
 
-Logistic Regression Model: Random Forests Model: 
+Logistic Regression Model:  
 Training Data Score: 0.8458897577722678
 Testing Data Score: 0.8621281464530892
 
