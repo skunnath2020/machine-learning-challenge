@@ -1,4 +1,4 @@
-# Machine Learning Homework - Exoplanet Exploration
+# Machine Learning Assignment - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
